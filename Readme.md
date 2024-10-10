@@ -1,4 +1,4 @@
-Lista de Tarefas (TO-DO List)
+# Lista de Tarefas (TO-DO List)
 
 Este é um aplicativo de Lista de Tarefas (TO-DO List) desenvolvido em Python com interface gráfica utilizando CustomTkinter e banco de dados MySQL. O objetivo do aplicativo é permitir que os usuários gerenciem suas tarefas de forma eficiente, com a possibilidade de adicionar, editar, excluir e marcar tarefas como concluídas. Todas as tarefas são armazenadas de forma persistente em um banco de dados.
 Funcionalidades
@@ -9,7 +9,7 @@ Funcionalidades
     Marcar como Concluída: O usuário pode marcar uma tarefa como concluída, e o status será atualizado no banco de dados.
     Persistência de Dados: Todas as tarefas são armazenadas em um banco de dados MySQL, garantindo que os dados sejam preservados mesmo após o encerramento do aplicativo.
 
-Pré-requisitos
+## Pré-requisitos
 
 Antes de executar o projeto, você precisará ter instalado:
 
@@ -18,7 +18,7 @@ Antes de executar o projeto, você precisará ter instalado:
     MySQL Server
     MySQL Connector para Python
 
-Instalação
+## Instalação
 
 Clone o repositório
 
@@ -57,7 +57,7 @@ python
         database="todo_list"
     )
 
-Executando o Projeto
+## Executando o Projeto
 
 Para rodar o aplicativo, execute o arquivo principal do projeto com o comando abaixo:
 
@@ -68,7 +68,7 @@ python todo_list.py
 Isso abrirá a interface gráfica onde você poderá gerenciar suas tarefas.
 
 
-Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 Licença
