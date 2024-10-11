@@ -68,6 +68,12 @@ python todo_list.py
 Isso abrirá a interface gráfica onde você poderá gerenciar suas tarefas.
 
 
+## Imagens
+
+![Screenshot (641)](https://github.com/user-attachments/assets/d7e3c24b-18f4-4641-9b03-dbafbc66ccb6)
+![Screenshot (642)](https://github.com/user-attachments/assets/44f57121-00ca-4901-9a82-fd13cdebd44a)
+
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
